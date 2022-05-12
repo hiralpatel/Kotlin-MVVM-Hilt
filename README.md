@@ -9,8 +9,10 @@ The following diagram shows the structure of this project with 3 layers:
 
 ### Scenario
 Using of https://jsonplaceholder.typicode.com/ as a public api to generate fake data for testing.
-For fetch Album used this API https://jsonplaceholder.typicode.com/albums
-For fetch Photos of particulat Album https://jsonplaceholder.typicode.com/photos by Required Params -> "albumId" 
+
+1. For fetch Album used this API https://jsonplaceholder.typicode.com/albums
+2. For fetch Photos of particular Album https://jsonplaceholder.typicode.com/photos by Required Params -> "albumId" 
+
 At a glance:
 
 - Create list of Albums with Vertical scrolling.
