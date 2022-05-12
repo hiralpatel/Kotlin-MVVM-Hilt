@@ -22,3 +22,11 @@ At a glance:
 
 ### Included below things
 
+- Kotlin
+- Hilt-Dagger
+- Retrofit
+- Room
+- RxJava
+- LiveData
+- ViewModel
+- ViewBinding
