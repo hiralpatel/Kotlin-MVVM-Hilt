@@ -20,7 +20,7 @@ At a glance:
 - Both Horizontal and Vertical scroll will be infinite scrolling with data.
 - All the data will be stored locally, so if after 2-3 times opened Application it will work offline as well.
 
-### Included below things
+### This Sample app included
 
 - Kotlin
 - Hilt-Dagger
